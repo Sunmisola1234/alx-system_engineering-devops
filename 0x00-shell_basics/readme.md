@@ -1,1 +1,0 @@
-Task 0 pathname of current directory
